@@ -1,3 +1,5 @@
+# Please see [the new, rewritten Chasm](https://github.com/atisharma/chasm)
+
 # Chasm - CHAracter State Manager (game client)
 
 Chasm is a ***generative text adventure game*** in a ***world you
